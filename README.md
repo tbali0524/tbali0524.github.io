@@ -33,12 +33,23 @@ It all began with the [C64](https://en.wikipedia.org/wiki/Commodore_64)...
 * [Captain K.O.](CAPTNKO.T64)
     * My very first program, written at the age of 11, in `C64 BASIC`. It would not pass a decent code review, I know... :-)
 * [Bali's Sprite Designer v4.0](https://csdb.dk/release/?id=190116)
-    * My very first `assembly` program. Its first version was written at the age of 14.
+    * My very first `assembly` program. Its first version was written at the age of 15.
 * [Bali's Character Editor v2.0](https://csdb.dk/release/?id=190117)
     * A font editor with pull-down menus, written in assembly.
 * [C64ASM v1.1a](https://csdb.dk/release/?id=190119) - a cross-assembler for the MOS6510 CPU
     * I wrote this in the '90s in [Borland Pascal](https://en.wikipedia.org/wiki/Turbo_Pascal). It runs on a PC (needs DOSEMU nowadays), but generates C64 binary files that can be run with a real C64 or with an emulator.
 * [My profile on the `C64 Scene Database`](https://csdb.dk/scener/?id=34229)
+
+## Other coding competitions and sites
+
+* [My Codewars profile](https://www.codewars.com/users/tbali0524)
+    * Only recently started. Using it to practice simple puzzles and one-liners in `PHP` and `Rust`. My personal FP challenge: avoid `for` loops in my solutions.
+* [My Project Euler profile](https://projecteuler.net/progress=TBali)
+    * Only recently started.
+* [Google CodeJam 2021](https://codingcompetitions.withgoogle.com/codejam/certificate/summary/00000000004360f1) 
+    * I made it only to round 2... :-(
+* On my __TODO__ list only:
+    * Try out also these: `TopCoder`, `Kaggle`, `Advent Of Code`, etc.
 
 ## Programming languages
 
@@ -55,17 +66,6 @@ I have been working in the ICT industry for 25+ years, but never as a software d
 * [My LinkedIn profile](https://www.linkedin.com/in/tothbalint/)
 * [My blog articles at Intalion](https://www.intalion.hu/author/toth_balint/) _(in Hungarian)_
     * I am working at Intalion for 5+ years now.
-
-## Other coding competitions
-
-* [My Codewars profile](https://www.codewars.com/users/tbali0524)
-    * Only recently started. Using it to practice simple puzzles and one-liners in `PHP` and `Rust`. My personal FP challenge: avoid `for` loops in my solutions.
-* [My Project Euler profile](https://projecteuler.net/progress=TBali)
-    * Only recently started.
-* [Google CodeJam 2021](https://codingcompetitions.withgoogle.com/codejam/certificate/summary/00000000004360f1) 
-    * I made it only to round 2... :-(
-* On my __TODO__ list only:
-    * Try out also these: `TopCoder`, `Kaggle`, `Advent Of Code`, etc.
 
 ## Contact
 
