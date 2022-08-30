@@ -22,16 +22,22 @@ My main focus was so far on solo I/O puzzles (_now ~98% completed_), but I also 
 [www.aviationfanatic.com](https://www.aviationfanatic.com) - Free online aviation encyclopedia
 
 * I created this website in 2011, as a pet project to learn `PHP`, `MySQL`, `HTML` and `CSS`.
-* Therefore, I decided NOT to use any web framework or external package, except the core language library, doing everything from scratch. It is not using any OOP.
+* Therefore, I decided NOT to use any web framework or external package, except the core language library, doing everything from scratch. It is not using OOP.
 * Now it hosts 260k+ records in 20+ database tables, and 12k+ pictures (plus thumbnails).
 * _Mid-term plan:_ complete rewrite with OOP design, using Laravel framework and Tailwind CSS. Possibly also with client-side rendering with Vue.js.
+
+## Coding in the 90s
+
+I used to code a lot during my high school and university years, mainly in Turbo Pascal.
+
+* [Repository of the programs I wrote mainly in 1991-1995](https://github.com/tbali0524/pc-coding-1990s)
 
 ## Commodore 64
 
 It all began with the [C64](https://en.wikipedia.org/wiki/Commodore_64)...
 
-* [Captain K.O.](CAPTNKO.T64)
-    * My very first program, written at the age of 11, in `C64 BASIC`. It would not pass a decent code review, I know... :-)
+* Captain K.O.
+    * My very first program, written at the age of 12, in `C64 BASIC`. It would not pass a decent code review, I know... :-)
 * [Bali's Sprite Designer v4.0](https://csdb.dk/release/?id=190116)
     * My very first `assembly` program. Its first version was written at the age of 15.
 * [Bali's Character Editor v2.0](https://csdb.dk/release/?id=190117)
@@ -39,6 +45,7 @@ It all began with the [C64](https://en.wikipedia.org/wiki/Commodore_64)...
 * [C64ASM v1.1a](https://csdb.dk/release/?id=190119) - a cross-assembler for the MOS6510 CPU
     * I wrote this in the '90s in [Borland Pascal](https://en.wikipedia.org/wiki/Turbo_Pascal). It runs on a PC (needs DOSEMU nowadays), but generates C64 binary files that can be run with a real C64 or with an emulator.
 * [My profile on the `C64 Scene Database`](https://csdb.dk/scener/?id=34229)
+* [Repository of the C64 programs I write in 1986-91](https://github.com/tbali0524/c64-coding-1986-1991)
 
 ## Other coding competitions and sites
 
@@ -49,7 +56,7 @@ It all began with the [C64](https://en.wikipedia.org/wiki/Commodore_64)...
 * [Google CodeJam 2021](https://codingcompetitions.withgoogle.com/codejam/certificate/summary/00000000004360f1) 
     * I made it only to round 2... :-(
 * On my __TODO__ list only:
-    * Try out also these: `TopCoder`, `Kaggle`, `Advent Of Code`, etc.
+    * Try out also these: `Advent Of Code`, `Hackerrank`, `TopCoder`, `Kaggle`, etc.
 
 ## Programming languages
 
