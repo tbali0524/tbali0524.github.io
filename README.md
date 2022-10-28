@@ -19,17 +19,19 @@ A collection of my coding-related activities.
 
 ## Other coding competitions and sites
 
-* [My Codewars profile](https://www.codewars.com/users/tbali0524)
+* Codewars - _([my profile](https://www.codewars.com/users/tbali0524))_
     * Only recently started _(~300 katas solved)_.
     * Using it to practice simple puzzles and one-liners in `PHP` and `Rust`. My personal FP challenge: avoid `for` loops in my solutions.
-* [My Project Euler profile](https://projecteuler.net/progress=TBali)
+* [Project Euler](https://projecteuler.net/) - _([profile](https://projecteuler.net/progress=TBali) is hidden)_
     * Only recently started _(<5% of the puzzles solved)_.
-* [Advent Of Code](https://adventofcode.com/)
-    * Only recently started _(<10% of the puzzles solved)_.
-* [Google CodeJam 2021](https://codingcompetitions.withgoogle.com/codejam/certificate/summary/00000000004360f1)
-    * I made it only to round 2... :-(
+* [Advent Of Code](https://adventofcode.com/) - _([profile](https://adventofcode.com/2022/events) is hidden)_
+    * Only recently started _(<25% of the puzzles solved)_.
+* [Google CodeJam](https://codingcompetitions.withgoogle.com/codejam)
+    * Participated in 2021, made it only to [round 2](pic/codejam21cert.png)... :-(
+* Hackerranks - (_[my profile](https://www.hackerrank.com/TBali))_
+    * Only recently started _(minimal activity)_.
 * On my TODO list only:
-    * Try out also these: `Hackerrank`, `TopCoder`, `Kaggle`, etc.
+    * Try out also these: `TopCoder`, `Kaggle`, etc.
 
 ## Aviation Fanatic website
 
