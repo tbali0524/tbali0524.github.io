@@ -42,7 +42,7 @@ A collection of my coding-related activities.
 
 ## Coding in the 90s
 
-I used to code a lot during my high school and university years, mainly in `Turbo Pascal`.
+I used to code a lot during my high school and university years, mainly in `Turbo Pascal` _(~30k lines of code)_.
 
 * [Repository of the programs I wrote in the 1990s](https://github.com/tbali0524/pc-coding-1990s)
 
@@ -64,12 +64,13 @@ It all began with the [C64](https://en.wikipedia.org/wiki/Commodore_64)...
 ## Programming languages
 
 * I consider myself fluent in `PHP`.
+    * I wrote ~160k lines of code (as a hobby).
     * Beginner level in the `Laravel` framework.
 * I used to be fluent in `Pascal` and `C64 assembly` in the 90s, but I have mostly forgotten it since.
-* Low-intermediate level in `C`, `C++`, `Java`, `JavaScript` / `Typescript`, `Python`, `Rust`
+* Low-intermediate level in `C`, `C++`, `Java`, `Javascript` / `Typescript`, `Python`, `Rust`
     * I spent some time learning these languages, but have only little coding experience in these.
     * I am able to read/understand code and to write simple stuff.
-* I also tried out many other languages (mainly on CodinGame, with <1000 total lines of code per language), so I am at very beginner level in these.
+* I also tried out many other languages (mainly on CodinGame, with <1500 total lines of code per language), so I am at very beginner level in these.
 
 ## Professional
 
