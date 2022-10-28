@@ -4,33 +4,47 @@ A collection of my coding-related activities.
 
 ## CodinGame
 
-My main focus was so far on solo I/O puzzles (_now ~98% completed_), but I also like to write AI bots for multiplayer competitions (either using some heuristics or a proper simulation and a search algorithm.)
-
 * [My CG profile](https://www.codingame.com/profile/08e6e13d9f7cad047d86ec4d10c777500155033)
-* [The Coding Adventures of a Salesperson](https://www.codingame.com/blog/salesperson-coding/) _… or how I became a Legend in 40 days_
-    * My article on CG's blog.
-* My playgrounds (articles) on tech.io:
+    * My main focus has been so far on solo I/O puzzles _(__>98%__ solved)_, but I also like to participate in multiplayer bot AI contests.
+* My article on CG's blog:
+    * [The Coding Adventures of a Salesperson](https://www.codingame.com/blog/salesperson-coding/) _… or how I became a Legend in 40 days_
+* My playgrounds (articles) on `tech.io`:
     * [A Babel of Languages on CodinGame](https://www.codingame.com/playgrounds/56997/a-babel-of-languages-on-codingame/intro)
     * [Swapping languages on CodinGame (a.k.a. system() calls)](https://www.codingame.com/playgrounds/59982/swapping-languages-on-codingame-a-k-a--system-calls/intro)
     * [PHP Dev Tools (for CodinGame or elsewhere)](https://www.codingame.com/playgrounds/77580/php-dev-tools-for-codingame-or-elsewhere/intro)
 * Public repositories:
     * [CGTest](https://github.com/tbali0524/cgtest) - a multi-language offline batch test runner for CodinGame (or other) solo I/O puzzles
+        * This repo also contains 1500+ test cases for 650+ CG puzzles.
     * [codingame_api](https://github.com/tbali0524/codingame_api) - data download tool using CodinGame API
+
+## Other coding competitions and sites
+
+* [My Codewars profile](https://www.codewars.com/users/tbali0524)
+    * Only recently started _(~300 katas solved)_.
+    * Using it to practice simple puzzles and one-liners in `PHP` and `Rust`. My personal FP challenge: avoid `for` loops in my solutions.
+* [My Project Euler profile](https://projecteuler.net/progress=TBali)
+    * Only recently started _(<5% of the puzzles solved)_.
+* [Advent Of Code](https://adventofcode.com/)
+    * Only recently started _(<10% of the puzzles solved)_.
+* [Google CodeJam 2021](https://codingcompetitions.withgoogle.com/codejam/certificate/summary/00000000004360f1)
+    * I made it only to round 2... :-(
+* On my TODO list only:
+    * Try out also these: `Hackerrank`, `TopCoder`, `Kaggle`, etc.
 
 ## Aviation Fanatic website
 
 [www.aviationfanatic.com](https://www.aviationfanatic.com) - Free online aviation encyclopedia
 
 * I created this website in 2011, as a pet project to learn `PHP`, `MySQL`, `HTML` and `CSS`.
-* Therefore, I decided NOT to use any web framework or external package, except the core language library, doing everything from scratch. It is not using OOP.
+* Therefore, I decided NOT to use any web framework or external package, except the core language library, doing everything from scratch.
 * Now it hosts 260k+ records in 20+ database tables, and 12k+ pictures (plus thumbnails).
-* _Mid-term plan:_ complete rewrite with OOP design, using Laravel framework and Tailwind CSS. Possibly also with client-side rendering with Vue.js.
+* _On mid-term TODO list:_ complete rewrite with OOP design, using Laravel framework and Tailwind CSS. Possibly also with client-side rendering with Vue.js.
 
 ## Coding in the 90s
 
-I used to code a lot during my high school and university years, mainly in Turbo Pascal.
+I used to code a lot during my high school and university years, mainly in `Turbo Pascal`.
 
-* [Repository of the programs I wrote mainly in 1991-1995](https://github.com/tbali0524/pc-coding-1990s)
+* [Repository of the programs I wrote in the 1990s](https://github.com/tbali0524/pc-coding-1990s)
 
 ## Commodore 64
 
@@ -45,34 +59,24 @@ It all began with the [C64](https://en.wikipedia.org/wiki/Commodore_64)...
 * [C64ASM v1.1a](https://csdb.dk/release/?id=190119) - a cross-assembler for the MOS6510 CPU
     * I wrote this in the '90s in [Borland Pascal](https://en.wikipedia.org/wiki/Turbo_Pascal). It runs on a PC (needs DOSEMU nowadays), but generates C64 binary files that can be run with a real C64 or with an emulator.
 * [My profile on the `C64 Scene Database`](https://csdb.dk/scener/?id=34229)
-* [Repository of the C64 programs I write in 1986-91](https://github.com/tbali0524/c64-coding-1986-1991)
-
-## Other coding competitions and sites
-
-* [My Codewars profile](https://www.codewars.com/users/tbali0524)
-    * Only recently started. Using it to practice simple puzzles and one-liners in `PHP` and `Rust`. My personal FP challenge: avoid `for` loops in my solutions.
-* [My Project Euler profile](https://projecteuler.net/progress=TBali)
-    * Only recently started.
-* [Google CodeJam 2021](https://codingcompetitions.withgoogle.com/codejam/certificate/summary/00000000004360f1) 
-    * I made it only to round 2... :-(
-* On my __TODO__ list only:
-    * Try out also these: `Advent Of Code`, `Hackerrank`, `TopCoder`, `Kaggle`, etc.
+* [Repository of the C64 programs I wrote in 1986-91](https://github.com/tbali0524/c64-coding-1986-1991)
 
 ## Programming languages
 
 * I consider myself fluent in `PHP`.
     * Beginner level in the `Laravel` framework.
 * I used to be fluent in `Pascal` and `C64 assembly` in the 90s, but I have mostly forgotten it since.
-* I spent some time learning some other languages, but have only little coding experience in these. I am able to read code and write simple stuff.
-    * `C`, `C++`, `Java`, `JavaScript` / `Typescript`, `Python`, `Rust`, etc.
+* Low-intermediate level in `C`, `C++`, `Java`, `JavaScript` / `Typescript`, `Python`, `Rust`
+    * I spent some time learning these languages, but have only little coding experience in these.
+    * I am able to read/understand code and to write simple stuff.
+* I also tried out many other languages (mainly on CodinGame, with <1000 total lines of code per language), so I am at very beginner level in these.
 
 ## Professional
 
 I have been working in the ICT industry for 25+ years, but never as a software developer.
 
 * [My LinkedIn profile](https://www.linkedin.com/in/tothbalint/)
-* [My blog articles at Intalion](https://www.intalion.hu/author/toth_balint/) _(in Hungarian)_
-    * I am working at Intalion for 5+ years now.
+* [My blog articles on Intalion website](https://www.intalion.hu/author/toth_balint/) _(in Hungarian)_
 
 ## Contact
 
