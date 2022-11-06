@@ -25,11 +25,11 @@ A collection of my coding-related activities.
 * [Project Euler](https://projecteuler.net/) - _([profile](https://projecteuler.net/progress=TBali) is hidden)_
     * Only recently started _([<5% of the puzzles](pic/euler.png) solved)_.
 * [Advent Of Code](https://adventofcode.com/) - _([profile](https://adventofcode.com/2022/events) is hidden)_
-    * Only recently started _([~30% of the puzzles](pic/aoc.png) solved)_.
+    * Solved [2 seasons](pic/aoc.png) post-event (I used 2-3 hints from reddit).
 * [Google CodeJam](https://codingcompetitions.withgoogle.com/codejam)
     * Participated in 2021, made it only to [round 2](pic/codejam21cert.png)... :-(
 * Hackerranks - (_[my profile](https://www.hackerrank.com/TBali))_
-    * Only recently started _(minimal activity)_.
+    * _(So far only minimal activity)_.
 * On my TODO list only:
     * Try out also these: `TopCoder`, `Kaggle`, etc.
 
