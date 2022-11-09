@@ -23,8 +23,8 @@ A collection of my coding-related activities.
     * Only recently started _(~300 katas solved)_.
     * Using it to practice simple puzzles and one-liners in `PHP` and `Rust`. My personal FP challenge: avoid `for` loops in my solutions.
 * [Project Euler](https://projecteuler.net/) - _([profile](https://projecteuler.net/progress=TBali) is hidden)_
-    * Only recently started _([<5% of the puzzles](pic/euler.png) solved)_.
-* [Advent Of Code](https://adventofcode.com/) - _([profile](https://adventofcode.com/2022/events) is hidden)_
+    * Only recently started _([<5% of the puzzles](https://projecteuler.net/profile/TBali.png) solved)_.
+* [Advent Of Code](https://adventofcode.com/) - _(profile is hidden)_
     * Solved [2 seasons](pic/aoc.png) post-event (I used 2-3 hints from reddit).
 * [Google CodeJam](https://codingcompetitions.withgoogle.com/codejam)
     * Participated in 2021, made it only to [round 2](pic/codejam21cert.png)... :-(
