@@ -14,19 +14,19 @@ A collection of my coding-related activities.
     * [PHP Dev Tools (for CodinGame or elsewhere)](https://www.codingame.com/playgrounds/77580/php-dev-tools-for-codingame-or-elsewhere/intro)
 * Public repositories:
     * [CGTest](https://github.com/tbali0524/cgtest) - a multi-language offline batch test runner for CodinGame (or other) solo I/O puzzles
-        * _The repository also contains __5200+__ test cases for __770+__ `CodinGame` puzzles and __~700__ puzzle statements._
+        * _The repository also contains __5400+__ test cases for __770+__ `CodinGame` puzzles and __~700__ puzzle statements._
     * [codingame_api](https://github.com/tbali0524/codingame_api) - data download tool using CodinGame API
 
 ## Other coding competitions and sites
 
 * [Advent Of Code](https://adventofcode.com/) - _(profile is hidden)_
-    * Solved [>90% of the puzzles](pic/aoc.png) (I used 4-5 hints from reddit).
+    * Solved [all puzzles of the first 8 seasons](pic/aoc.png) (I used ~10 hints from reddit).
 * Codewars - _([my profile](https://www.codewars.com/users/tbali0524))_
     * So far only minimal activity, ~300 katas solved.
     * Using it to practice simple puzzles and one-liners in `PHP` and `Rust`. My personal FP challenge: avoid `for` loops in my solutions.
 * [Project Euler](https://projecteuler.net/) - _([profile](https://projecteuler.net/progress=TBali) is hidden)_
     * Only recently started _([<10% of the puzzles](https://projecteuler.net/profile/TBali.png) solved)_.
-* [Google CodeJam](https://codingcompetitions.withgoogle.com/codejam)
+* Google CodeJam
     * Participated in 2021, made it only to [round 2](pic/codejam21cert.png)... :-(
 * Hackerranks - (_[my profile](https://www.hackerrank.com/TBali))_
     * _(So far only minimal activity)_
