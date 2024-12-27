@@ -20,9 +20,9 @@ A collection of my coding-related activities.
 ## Other coding competitions and sites
 
 * [Advent Of Code](https://adventofcode.com/) - _(profile is hidden)_
-    * Solved [all puzzles of the first 9 seasons](pic/aoc.png) (I used ~10 hints from reddit).
-    * [Repository of my solutions in PHP](https://github.com/tbali0524/advent-of-code-solutions)
-    * [Repository of my solutions in Rust](https://github.com/tbali0524/advent-of-code-rust)
+    * Solved [all puzzles in the first 10 seasons](pic/aoc.png) (I used ~15 hints from reddit).
+    * [Repository of my solutions in PHP](https://github.com/tbali0524/advent-of-code-solutions) (500 AoC ⭐)
+    * [Repository of my solutions in Rust](https://github.com/tbali0524/advent-of-code-rust) (218 AoC ⭐)
 * [Everybody Codes](https://everybody.codes/) - _(profile is hidden)_
     * Only recently started, few solutions in Season 2024.
     * [Repository of my solutions in Rust](https://github.com/tbali0524/everybody-codes-rust)
@@ -82,47 +82,47 @@ It all began with the [C64](https://en.wikipedia.org/wiki/Commodore_64)...
     * I spent some time learning these languages, but have only little coding experience in these.
     * I am able to read/understand code and to write simple stuff.
 * I also tried out many other languages (mainly on CodinGame, with < 2k total lines of code per language), so I am at very beginner level in these.
-* My LoC stats as of `2024.12.05`:
+* My LoC stats as of `2024.12.27`:
 
 ```txt
 ───────────────────────────────────────────────────────────────────────────────
 Language                     Files       Lines     Blanks    Comments      Code
 ───────────────────────────────────────────────────────────────────────────────
-PHP                           1724      226943      17345       38119    171479
-Rust                           309       60468       2175        1408     56885
+PHP                           1746      230868      17630       38682    174556
+Rust                           330       64476       2453        1524     60499
 Pascal                         178       31750       2213        1692     27845
-Java                           104        5800        521         711      4568
-Python                         103        2762        162         253      2347
 C++                             90        7843        613         639      6591
-C                               62        2681        256         212      2213
-Groovy                          53        1059         66         132       861
-JavaScript                      52        1000         67         143       790
-Lua                             52        1194         67         167       960
-Perl                            52        1339        140         213       986
-Ruby                            52        1006         67         171       768
-C#                              51        1361        111         146      1104
-Dart                            51        1389        160         146      1083
-F#                              51        1011         93         174       744
-Go                              51        1739        195         153      1391
-Scala                           51        1270        115         166       989
-Swift                           51        1567        162         144      1261
-Clojure                         50        1281        171         133       977
-D                               50        1374        153         164      1057
-Haskell                         50        1232        158         119       955
-Kotlin                          50        1293        104         138      1051
-OCaml                           50         969         61         167       741
-Objective C                     50        1483        113         154      1216
-TypeScript                      50         961         60         140       761
-Visual Basic                    50        1418        110         139      1169
+Java                           104        5800        521         711      4568
 Assembly                        12        4282         92          98      4092
-SQL                              7         291         41          79       171
+Python                         104        2783        164         256      2363
+C                               62        2681        256         212      2213
+Go                              51        1739        195         153      1391
+Swift                           51        1567        162         144      1261
+Objective C                     50        1483        113         154      1216
+Visual Basic                    50        1418        110         139      1169
+Dart                            51        1389        160         146      1083
+D                               50        1374        153         164      1057
+Perl                            53        1364        142         216      1006
+C#                              51        1361        111         146      1104
+Kotlin                          50        1293        104         138      1051
+Clojure                         50        1281        171         133       977
+Scala                           51        1270        115         166       989
+Haskell                         50        1232        158         119       955
+Lua                             53        1221         69         170       982
+Groovy                          53        1059         66         132       861
+Ruby                            53        1031         69         174       788
+F#                              51        1011         93         174       744
+JavaScript                      52        1000         67         143       790
+OCaml                           50         969         61         167       741
+TypeScript                      50         961         60         140       761
 Basic                            3         855          0           0       855
-MATLAB                           2           6          0           0         6
+SQL                              7         291         41          79       171
 Fortran Modern                   1          13          1           2        10
+MATLAB                           2           6          0           0         6
 ───────────────────────────────────────────────────────────────────────────────
-Total                         3562      367640      25592       46122    295926
+Total                         3609      375671      26163       46813    302695
 ───────────────────────────────────────────────────────────────────────────────
-Processed 12160143 bytes, 12.160 megabytes (SI)
+Processed 12409842 bytes, 12.410 megabytes (SI)
 ───────────────────────────────────────────────────────────────────────────────
 ```
 
